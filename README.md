@@ -1,1 +1,4 @@
-# mission
+# Polymer Community Project
+
+### Super cool proposal placeholder
+This repository is intended to drive collaboration on guidelines for building a community to create and manage sample projects which demonstrate best practices for web components and web platform focused development.
